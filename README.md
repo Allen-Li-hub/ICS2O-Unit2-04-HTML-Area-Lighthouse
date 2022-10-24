@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Allen-Li-hub/ICS2O-Unit2-04-HTML-Area-Lighthouse)](https://repl.it/github/Allen-Li-hub/ICS2O-Unit2-04-HTML-Area-Lighthouse)
 
-This site can be found at: [https://mr-coxall.github.io/ICS2O-Unit2-04-HTML-Area-Lighthouse/](https://mr-coxall.github.io/ICS2O-Unit2-04-HTML-Area-Lighthouse/)
+This site can be found at: [https://Allen-Li-hub.github.io/ICS2O-Unit2-04-HTML-Area-Lighthouse](https://Allen-Li-hub.github.io/ICS2O-Unit2-04-HTML-Area-Lighthouse)
