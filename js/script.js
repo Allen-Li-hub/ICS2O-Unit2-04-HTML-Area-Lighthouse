@@ -18,6 +18,14 @@ if (navigator.serviceWorker) {
 /**
  * This function displays an alert.
  */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
+function calculate() {
+  // input
+  const base = parseInt(document.getElementById("base-of-triangle").value)
+  const height = parseInt(document.getElementById("height-of-triangle").value)
+
+  // process
+  const area = (base * height) / 2
+
+  // output
+  document.getElementById("area").innerHTML = "Area is: " + area + " cm²"
 }
